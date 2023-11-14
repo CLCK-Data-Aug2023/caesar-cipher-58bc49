@@ -25,7 +25,7 @@ should be encrypted using a caesar cipher with a right shift of 5.
 Here is an example execution of the program:
 
 ```
-Please enter a senctence: python is fun!
+Please enter a sentence: python is fun!
 The encrypted sentence is: udymts nx kzs!
 ```
 
